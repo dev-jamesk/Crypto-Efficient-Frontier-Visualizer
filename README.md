@@ -1,7 +1,7 @@
 # Crypto Efficient Frontier Visualizer 
  Visualizing efficient front tier for cryptocurrency portfolios. 
  
-Credits for applying the formulas, generating random portfolios and visualization belong to Shruti Dash in this following article link. I only implement and create a UI and enhancing graphics for user to select any tickers from Messari.
+Credits for applying the formulas, generating random portfolios and visualization belong to Shruti Dash in this following article. In this repository, I only implement provided code and further develop functions and providng UI for user to select any tickers from Messari.
 
 > https://www.machinelearningplus.com/machine-learning/portfolio-optimization-python-example/
 
