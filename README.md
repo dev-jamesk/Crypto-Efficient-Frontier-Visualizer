@@ -1,5 +1,5 @@
-# Crypto Efficient Frontier Visualizer 
- Visualizing efficient front tier for your cryptocurrency portfolio. 
+### Crypto Efficient Frontier Visualizer 
+ Visualizing efficient front tier for your cryptocurrency portfolio. (**Use Lab.ipynb for now) 
  
 Credits for applying the formulas, generating random portfolios and visualizing results belong to Shruti Dash. In this repository, I only implement sample code and further developed functions and provided UI for user to select any tickers (At the momment of writing data is limted to what Binance Klines API provides, I may switch to Messari later on for better database. Changes will be updated here). This project also generates related visualizations such as daily returns, cumulative returns and correlation matrix.  
 
